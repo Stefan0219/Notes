@@ -1,12 +1,12 @@
 ## RISC (Reduced Instruction Set Computer)
-* A single inst can only perform one operation.
-* Keep isa small as possiable, makes it easier to bulid fast hard ware.
+* A single instruction can only perform one operation.
+* Keep isa small as possible, makes it easier to build fast hard ware.
 ## RISC-V ISA
 ### Registers
 #### Summary
 32 general propose registers in rv
 Referred to as x0-x31.
-Assoicated with the word's lenth 32-64-128 bits.
+Associated with the word's length 32-64-128 bits.
 x0 is always set to be zero.
 PC is a register that holds the memory address of the instruction being executed.
 #### What if we want PC to execute a function at a different location?
@@ -36,13 +36,13 @@ and pseudo instruction for that is
 ```R
 jr rs
 ```
-If the register `ra` which contains return address, then the pseudo instruncion can be simplified as 
+If the register `ra` which contains return address, then the pseudo instruction can be simplified as 
 ```R
 ret
 ```
 
 
-##### When we call another function, what happens to the valuse that are stored in the registers?
+##### When we call another function, what happens to the value that are stored in the registers?
 * We use the stack to store the info.
 ###### Stack
 Stack Pointer(SP):A register that holds the memory address of the location of the last item placed on the stack (x2).
