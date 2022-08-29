@@ -10,3 +10,13 @@ The 12-bit immediate in the S-type format is split into two fields, which supply
 ![[Pasted image 20220829110737.png]]![[Pasted image 20220829110757.png]]
 ![[Pasted image 20220829110826.png]]
 ![[Pasted image 20220829111208.png]]
+# J-Format
+![[Pasted image 20220829113830.png]]
+# U-Format
+![[Pasted image 20220829113930.png]]
+![[Pasted image 20220829113949.png]]
+![[Pasted image 20220829114059.png]]
+![[Pasted image 20220829114144.png]]
+![[Pasted image 20220829114201.png]]
+# Summary
+![[Pasted image 20220829114224.png]]
