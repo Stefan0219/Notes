@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "99bac024a4fcf31d",
+        "id": "ce504a1a49a9e625",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cs61c/RV isa/RV.md",
-            "mode": "preview",
+            "file": "cs61c/Labs/LAB03/lab03.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232
+    "width": 209
   },
   "right": {
     "id": "5bd98033d7e22183",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs61c/RV isa/RV.md",
+                "file": "cs61c/Labs/LAB03/lab03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs61c/RV isa/RV.md",
+                "file": "cs61c/Labs/LAB03/lab03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs61c/RV isa/RV.md"
+                "file": "cs61c/Labs/LAB03/lab03.md"
               }
             }
           },
@@ -134,10 +134,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 419
   },
-  "active": "99bac024a4fcf31d",
+  "active": "e22a8dabc0acede8",
   "lastOpenFiles": [
+    "cs61c/Labs/LAB03/lab03.md",
     "cs61c/RV isa/Instruction Format.md",
     "cs61c/RV isa/RV.md",
     "cs61c/IEEE 754/lec06.md",
@@ -146,7 +147,6 @@
     "cs61b/QuadTree.md",
     "6.s081/LEC01/lec01.md",
     "cs61c/Labs/LAB02/lab02.md",
-    "cs61c/Labs/LAB02/Pasted image 20220825213332.png",
-    "cs61c/Pointers,Arrays,Memory/Pasted image 20220825133630.png"
+    "cs61c/Labs/LAB02/Pasted image 20220825213332.png"
   ]
 }
