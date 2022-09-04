@@ -134,19 +134,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 248,
+    "collapsed": true
   },
   "active": "ce504a1a49a9e625",
   "lastOpenFiles": [
-    "cs61c/Projs/proj2.md",
-    "cs61c/Labs/LAB02/lab02.md",
-    "cs61c/Labs/LAB02/Pasted image 20220825213332.png",
-    "cs61c/Labs/LAB03/Notes about writing RV.md",
-    "cs61c/RV isa/Instruction Format.md",
-    "cs61c/RV isa/RV.md",
-    "cs61c/IEEE 754/lec06.md",
+    "cs61b/QuadTree.md",
+    "cs61b/Pasted image 20220826104006.png",
+    "6.s081/LEC01/lec01.md",
     "cs61c/Pointers,Arrays,Memory/lec03.md",
     "cs61c/Labs/GDB manual.md",
-    "cs61b/QuadTree.md"
+    "cs61c/Labs/LAB02/lab02.md",
+    "cs61c/Labs/LAB03/Notes about writing RV.md",
+    "cs61c/Intro to Digital Systems/Lec10.md",
+    "cs61c/Projs/proj2.md",
+    "cs61c/Labs/LAB02/Pasted image 20220825213332.png"
   ]
 }
