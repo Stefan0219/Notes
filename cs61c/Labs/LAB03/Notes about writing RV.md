@@ -1,6 +1,7 @@
 # Notes about writing RV
 ## Save the registers before/after call function.
 because little endian.
+**the number add to stack pointer should be same to the number subtract from it!** 
 **before** 
 ```R
 addi sp, sp, -4
