@@ -134,9 +134,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248
+    "width": 248,
+    "collapsed": true
   },
-  "active": "ce504a1a49a9e625",
+  "active": "6a6c573de44e8b21",
   "lastOpenFiles": [
     "cs61c/RV isa/RV.md",
     "cs61c/RV isa/Instruction Format.md",
