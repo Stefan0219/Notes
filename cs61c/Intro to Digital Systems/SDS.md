@@ -13,3 +13,9 @@ Three terminals : Drain ,Gate, Source
 clk enables the register to store the input.
 Clock control pulse of our circuits.
 ![[Pasted image 20220905114046.png]]
+# Register Details: Flip-Flops
+n-bit wide register is nothing but n instance of **flip-flop**.
+![[Pasted image 20220905152404.png]]
+Input bits is $d_i$ and output is $q_i$ , d stands for data, q stands for quiet a.k.a. stable
+## edge-triggered d-type flip-flop
+Only consider 
