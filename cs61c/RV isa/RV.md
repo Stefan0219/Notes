@@ -15,7 +15,7 @@ PC is a register that holds the memory address of the instruction being executed
 * Store values in registers.
 ##### JAL (jump and link)
 ![[Pasted image 20220828111344.png]]
-We can choose for **any**  register to hold the return address.
+We can choose **any**  register to hold the return address.
 * Usually utilize x1 to hold **return address** , so it has an alternate name **ra** .
 * When we jump because of a loop or branch, we don't need a return address. For example, if a if-statement followed by else, when the instructions belong to if is finished, then jump over else without return address.
 * To avoid saving the return address, we can specify x0  as the destination register.

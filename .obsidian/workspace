@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209
+    "width": 239
   },
   "right": {
     "id": "5bd98033d7e22183",
@@ -134,15 +134,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248,
-    "collapsed": true
+    "width": 248
   },
   "active": "ce504a1a49a9e625",
   "lastOpenFiles": [
     "cs61c/RV isa/Instruction Format.md",
+    "cs61c/RV isa/RV.md",
     "cs61c/Pointers,Arrays,Memory/lec03.md",
     "cs61c/Projs/proj2.md",
-    "cs61c/RV isa/RV.md",
     "cs61c/Intro to Digital Systems/image/Pasted image 20220904124839.png",
     "cs61c/Intro to Digital Systems/Lec10 (combinational).md",
     "cs61b/QuadTree.md",
