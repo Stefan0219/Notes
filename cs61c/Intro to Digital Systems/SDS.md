@@ -11,3 +11,5 @@ Three terminals : Drain ,Gate, Source
 # Register
 ![[Pasted image 20220905113916.png]]
 clk enables the register to store the input.
+Clock control pulse of our circuits.
+![[Pasted image 20220905114046.png]]
