@@ -38,3 +38,6 @@ This delay is called *clk-to-q* delay.
 ![[Pasted image 20220905155212.png]]
 
 ![[Pasted image 20220905155316.png]]
+![[Pasted image 20220905160145.png]]
+![[Pasted image 20220905160202.png]]
+![[Pasted image 20220905160218.png]]
