@@ -41,3 +41,4 @@ This delay is called *clk-to-q* delay.
 ![[Pasted image 20220905160145.png]]
 ![[Pasted image 20220905160202.png]]
 ![[Pasted image 20220905160218.png]]
+# Pipelining -- Adding registers to improve Performance 
