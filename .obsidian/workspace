@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cs61c/Intro to Digital Systems/SDS.md",
+            "file": "Makefile/Makefile.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs61c/Intro to Digital Systems/SDS.md",
+                "file": "Makefile/Makefile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs61c/Intro to Digital Systems/SDS.md",
+                "file": "Makefile/Makefile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs61c/Intro to Digital Systems/SDS.md"
+                "file": "Makefile/Makefile.md"
               }
             }
           },
@@ -137,8 +137,9 @@
     "width": 248,
     "collapsed": true
   },
-  "active": "6a6c573de44e8b21",
+  "active": "ce504a1a49a9e625",
   "lastOpenFiles": [
+    "cs61c/Intro to Digital Systems/SDS.md",
     "cs61c/RV isa/RV.md",
     "cs61c/RV isa/Instruction Format.md",
     "cs61c/Pointers,Arrays,Memory/lec03.md",
@@ -147,7 +148,6 @@
     "cs61c/Intro to Digital Systems/Lec10 (combinational).md",
     "cs61b/QuadTree.md",
     "cs61b/Pasted image 20220826104006.png",
-    "6.s081/LEC01/lec01.md",
-    "cs61c/Labs/GDB manual.md"
+    "6.s081/LEC01/lec01.md"
   ]
 }
