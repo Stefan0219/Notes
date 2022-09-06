@@ -42,3 +42,30 @@ This delay is called *clk-to-q* delay.
 ![[Pasted image 20220905160202.png]]
 ![[Pasted image 20220905160218.png]]
 # Pipelining -- Adding registers to improve Performance 
+# Data Multiplexors
+![[Pasted image 20220906201449.png]]
+* 2-to-one , n bit wide.
+![[Pasted image 20220906201537.png]]
+![[Pasted image 20220906201608.png]]
+# ALU
+![[Pasted image 20220906201636.png]]
+**We can implement muxes hierarchically.** 
+![[Pasted image 20220906201702.png]]
+## Adder/Subtracter
+![[Pasted image 20220906201834.png]]
+* MAJ :函数结果为a，b，c 中占多数的0or1。
+## 1-bit adder
+![[Pasted image 20220906202017.png]]
+## N-bit adder
+* Just cascade N 1-bit adder.
+![[Pasted image 20220906202058.png]]
+## Overflow
+* When doing unsigned operations, carry bit from MSB means **overflow** .
+* When doing **signed**  operations, overflow depends on 
+$c_n$ $XOR$ $c_{n-1}$ .
+![[Pasted image 20220906202440.png]]
+## Subtractor
+* $A-B = A+(-B)$
+* $-B$ = $B_{filp}$+1
+![[Pasted image 20220906202727.png]]
+When **Sub** line is $1$ , then $b_i$ will flip over, and **Sub** will work as $LSB's$ carry bit.
