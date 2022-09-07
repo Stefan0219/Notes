@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Makefile/Makefile.md",
+            "file": "cs61c/RISCV Processor Design/RV-CPU-DESIGN.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Makefile/Makefile.md",
+                "file": "cs61c/RISCV Processor Design/RV-CPU-DESIGN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Makefile/Makefile.md",
+                "file": "cs61c/RISCV Processor Design/RV-CPU-DESIGN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Makefile/Makefile.md"
+                "file": "cs61c/RISCV Processor Design/RV-CPU-DESIGN.md"
               }
             }
           },
@@ -138,15 +138,15 @@
   },
   "active": "ce504a1a49a9e625",
   "lastOpenFiles": [
-    "cs61c/Intro to Digital Systems/SDS.md",
-    "Makefile/Makefile.md",
-    "cs61c/RV isa/RV.md",
     "cs61c/RV isa/Instruction Format.md",
+    "cs61c/RV isa/RV.md",
+    "cs61c/RISCV Processor Design/RV-CPU-DESIGN.md",
+    "Makefile/Makefile.md",
+    "cs61c/Intro to Digital Systems/SDS.md",
     "cs61c/Pointers,Arrays,Memory/lec03.md",
     "cs61c/Projs/proj2.md",
     "cs61c/Intro to Digital Systems/image/Pasted image 20220904124839.png",
     "cs61c/Intro to Digital Systems/Lec10 (combinational).md",
-    "cs61b/QuadTree.md",
-    "cs61b/Pasted image 20220826104006.png"
+    "cs61b/QuadTree.md"
   ]
 }
