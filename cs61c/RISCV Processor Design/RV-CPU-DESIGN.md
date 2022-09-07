@@ -29,7 +29,7 @@ Consists of 32 registers
 ##### Memory
 ![[Pasted image 20220907103611.png]]
 
-For **read** operation we don't need to wait for the clock, just put the address of register or memory, the logic block will automatically pop up.
+For **read** operation we **don't** need to wait for the clock, just put the address of register or memory, the logic block will automatically pop up.
 For **write** operation we need to wait for the rising edge of the clock to write data.
 Each instruction during execution reads and updates the state of
 1. registers
@@ -37,7 +37,7 @@ Each instruction during execution reads and updates the state of
 3. Memory
 
 # Datapath
-## R-Type Add Datapath
+## R-Format Datapath
 ### Review
 ![[Pasted image 20220907104657.png]]
 ### Implementing the add instruction
@@ -51,3 +51,11 @@ Instruction does two changes
 #### Datapath for sub/add
 * sub almost the same as add, except now we need to subtract operands.
 ![[Pasted image 20220907110234.png]]
+
+## I-Format Datapath
+![[Pasted image 20220907110633.png]]
+Add a Mux at there
+![[Pasted image 20220907111024.png]]
+![[Pasted image 20220907111256.png]]
+![[Pasted image 20220907111309.png]]
+![[Pasted image 20220907111355.png]]
