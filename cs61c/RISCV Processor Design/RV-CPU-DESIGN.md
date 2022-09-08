@@ -65,14 +65,14 @@ Add a Mux at there
 ![[Pasted image 20220908095428.png]]
 ![[Pasted image 20220908095834.png]]
 ![[Pasted image 20220908100056.png]]
-# S-Format
+## S-Format
 #### Adding sw instruction
 ![[Pasted image 20220908100327.png]]
 ![[Pasted image 20220908100505.png]]
 ![[Pasted image 20220908100522.png]]
 ![[Pasted image 20220908100613.png]]
 
-# B-Format
+## B-Format
 ![[Pasted image 20220908100827.png]]
 * Need to compute **PC+IMMEDICATE**  and to compare values of **rs1 and rs2** 
 ![[Pasted image 20220908101412.png]]
