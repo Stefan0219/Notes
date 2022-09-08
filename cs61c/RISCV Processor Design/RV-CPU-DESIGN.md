@@ -15,7 +15,7 @@ break up the process of “executing an instruction” into stages, and then con
 ![[Pasted image 20220907101849.png]]
 These five stages are executed in one clock cycle, which is called One-instruction-Per-cycle.
 ![[Pasted image 20220907102124.png]]
-Register write will executed at the next rising edge of clock.
+Register write will be executed at the next rising edge of clock.
 ### Datapath components
 #### Combinational
 * Combinational elements
@@ -29,7 +29,7 @@ Consists of 32 registers
 ##### Memory
 ![[Pasted image 20220907103611.png]]
 
-For **read** operation we **don't** need to wait for the clock, just put the address of register or memory, the logic block will automatically pop up.
+For **read** operation we **don't** need to wait for the clock, just put the address of register or memory, the data will automatically pop up.
 For **write** operation we need to wait for the rising edge of the clock to write data.
 Each instruction during execution reads and updates the state of
 1. registers
@@ -43,8 +43,8 @@ Each instruction during execution reads and updates the state of
 ### Implementing the add instruction
 ![[Pasted image 20220907104826.png]]
 Instruction does two changes
-1. Reg[rd] = Reg[rs1] + Reg[rs2]
-2. PC +=4
+1. **Reg[rd] = Reg[rs1] + Reg[rs2]** 
+2. **PC +=4** 
 #### Datapath for add
 ![[Pasted image 20220907105733.png]]
 ![[Pasted image 20220907105907.png]]
