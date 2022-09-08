@@ -53,9 +53,12 @@ Instruction does two changes
 ![[Pasted image 20220907110234.png]]
 
 ## I-Format Datapath
+### Addi
 ![[Pasted image 20220907110633.png]]
 Add a Mux at there
 ![[Pasted image 20220907111024.png]]
 ![[Pasted image 20220907111256.png]]
 ![[Pasted image 20220907111309.png]]
 ![[Pasted image 20220907111355.png]]
+### lw
+![[Pasted image 20220908095327.png]]
