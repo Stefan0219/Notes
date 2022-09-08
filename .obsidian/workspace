@@ -139,8 +139,8 @@
   "active": "ce504a1a49a9e625",
   "lastOpenFiles": [
     "cs61c/RV isa/Instruction Format.md",
-    "cs61c/RV isa/RV.md",
     "cs61c/RISCV Processor Design/RV-CPU-DESIGN.md",
+    "cs61c/RV isa/RV.md",
     "Makefile/Makefile.md",
     "cs61c/Intro to Digital Systems/SDS.md",
     "cs61c/Pointers,Arrays,Memory/lec03.md",
