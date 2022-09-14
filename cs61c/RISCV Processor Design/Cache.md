@@ -12,3 +12,7 @@
 **Caches provide an illusion to the processor that the memory is infinitely large and infinitely fast**
 ## Direct Mapped Caches
 **In a direct-mapped cache, each memory address is associated with one possible block within the cache**
+![[Pasted image 20220914155950.png]]
+![[Pasted image 20220914160006.png]]
+![[Pasted image 20220914160021.png]]
+![[Pasted image 20220914160034.png]]
