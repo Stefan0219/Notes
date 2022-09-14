@@ -10,3 +10,5 @@
 > Move blocks consisting of contiguous words closer to the processor.
 # Cache
 **Caches provide an illusion to the processor that the memory is infinitely large and infinitely fast**
+## Direct Mapped Caches
+**In a direct-mapped cache, each memory address is associated with one possible block within the cache**
