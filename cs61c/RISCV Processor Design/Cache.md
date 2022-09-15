@@ -16,3 +16,37 @@
 ![[Pasted image 20220914160006.png]]
 ![[Pasted image 20220914160021.png]]
 ![[Pasted image 20220914160034.png]]
+![[Pasted image 20220915154547.png]]
+# Writes, Block, Sizes, Misses
+## Write
+### Write-through
+* Update both cache and memory.
+### Write-back
+* Update word in cache block.
+* allow memory word to be stale
+* add **dirty** bit to block
+	* Memory and cache inconsistent.
+	* needs to be updated when block is replaced.
+* Operating system flushes cache before I/O.
+## Block Size Tradeoff
+![[Pasted image 20220915155031.png]]
+![[Pasted image 20220915155208.png]]
+![[Pasted image 20220915155246.png]]
+## Types of Cache Missed
+### Compulsory(forced) Misses
+* occur when a program is first started
+* cache does not contain any of that program’s data yet, so misses are bound to occur
+* can’t be avoided easily.
+* **Every block of memory will have one compulsory miss (NOT only every block of the cache)** 
+### Conflict Misses
+![[Pasted image 20220915155639.png]]
+### Fully Associative Caches
+![[Pasted image 20220915160335.png]]
+* Any block can go anywhere in the cache.
+* must compare with all tags in **entire cache** to see if data is there.
+![[Pasted image 20220915160517.png]]
+![[Pasted image 20220915160635.png]]
+### Capacity Misses
+![[Pasted image 20220915160852.png]]
+# Conclusion
+![[Pasted image 20220915161017.png]]
