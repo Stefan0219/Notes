@@ -29,6 +29,7 @@
 	* needs to be updated when block is replaced.
 * Operating system flushes cache before I/O.
 ## Block Size Tradeoff
+![[Pasted image 20220916084924.png]]
 ![[Pasted image 20220915155031.png]]
 ![[Pasted image 20220915155208.png]]
 ![[Pasted image 20220915155246.png]]
@@ -50,3 +51,17 @@
 ![[Pasted image 20220915160852.png]]
 # Conclusion
 ![[Pasted image 20220915161017.png]]
+
+# Set-Associative Cache
+![[Pasted image 20220916084239.png]]
+![[Pasted image 20220916084322.png]]
+![[Pasted image 20220916084339.png]]
+![[Pasted image 20220916084424.png]]
+![[Pasted image 20220916084506.png]]
+![[Pasted image 20220916084532.png]]
+![[Pasted image 20220916084545.png]]
+# Average Memory Access Time
+![[Pasted image 20220916084632.png]]
+![[Pasted image 20220916084653.png]]
+![[Pasted image 20220916084726.png]]
+![[Pasted image 20220916084741.png]]
