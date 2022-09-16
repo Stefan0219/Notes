@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cs61c/RV isa/RV.md",
+            "file": "cs61c/RV isa/Instruction Format.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs61c/RV isa/RV.md",
+                "file": "cs61c/RV isa/Instruction Format.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs61c/RV isa/RV.md",
+                "file": "cs61c/RV isa/Instruction Format.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs61c/RV isa/RV.md"
+                "file": "cs61c/RV isa/Instruction Format.md"
               }
             }
           },
@@ -138,13 +138,13 @@
   },
   "active": "ce504a1a49a9e625",
   "lastOpenFiles": [
+    "cs61c/RV isa/RV.md",
     "cs61c/RISCV Processor Design/Cache.md",
     "Makefile/Makefile.md",
     "cs61c/Intro to Digital Systems/SDS.md",
     "cs61c/Intro to Digital Systems/Lec10 (combinational).md",
     "cs61c/RISCV Processor Design/RV-CPU-DESIGN.md",
     "cs61c/RISCV Processor Design/RISC-V Control & Operating Speed.md",
-    "cs61c/RV isa/RV.md",
     "cs61c/RV isa/Instruction Format.md",
     "cs61c/Projs/proj2.md",
     "cs61c/RISCV Processor Design/image/Pasted image 20220908102255.png"
