@@ -19,4 +19,5 @@ The 12-bit immediate in the S-type format is split into two fields, which supply
 ![[Pasted image 20220829114144.png]]
 ![[Pasted image 20220829114201.png]]
 # Summary
+![[Pasted image 20220917095105.png]]
 ![[Pasted image 20220829114224.png]]
