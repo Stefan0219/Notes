@@ -21,3 +21,4 @@ The 12-bit immediate in the S-type format is split into two fields, which supply
 # Summary
 ![[Pasted image 20220917095105.png]]
 ![[Pasted image 20220829114224.png]]
+![[Pasted image 20220918212408.png]]
