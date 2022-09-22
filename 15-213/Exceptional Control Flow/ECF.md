@@ -46,5 +46,30 @@ A signal is a small message which **notifies** a process that an **event** of so
 **Kernel** sends a signal to a destination process by **updating** some **state** in the **context** of the destination process.
 ### Why sending signal 
 ![[Pasted image 20220922210303.png]]
+![[Pasted image 20220922222432.png]]
+**Sending signals(SIGINT/SIGTSTP) form the Keyboard will only act on the foreground process group.**
+
+
 ## Receiving a Signal
 ![[Pasted image 20220922212857.png]]
+![[Pasted image 20220922222837.png]]
+![[Pasted image 20220922222857.png]]
+![[Pasted image 20220922222957.png]]
+
+## Pending(挂起) and Blocked Signals 
+Pending: sent but not yet received.
+![[Pasted image 20220922221746.png]]
+![[Pasted image 20220922221925.png]]
+A pending signal is received at most once.
+## Pending / Blocked Bits
+![[Pasted image 20220922222048.png]]
+* Every process belongs to exactly one process group.
+![[Pasted image 20220922222400.png]]
+## Default Actions of signal
+ Each signal type has a predefined **default action**, which is one of:
+* The process terminates.
+* The process terminates and dumps core(take a snap shot of the memory).
+* The process stops until restarted by a SIGCONT signal.
+* The process ignores the signal.
+## Install Signal Handlers
+![[Pasted image 20220922223519.png]]
