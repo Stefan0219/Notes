@@ -73,3 +73,11 @@ A pending signal is received at most once.
 * The process ignores the signal.
 ## Install Signal Handlers
 ![[Pasted image 20220922223519.png]]
+**A signal handler is a separate logical flow(not process) that runs concurrently with the main program.**
+![[Pasted image 20220922223827.png]]
+![[Pasted image 20220922223903.png]]
+## Blocking and unblocking signals
+### Implicit
+* Kernel blocks any pending signals of type currently being handled.
+![[Pasted image 20220922225352.png]]
+ ![[Pasted image 20220922225432.png]]
