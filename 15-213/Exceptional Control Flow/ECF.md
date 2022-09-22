@@ -47,3 +47,4 @@ A signal is a small message which **notifies** a process that an **event** of so
 ### Why sending signal 
 ![[Pasted image 20220922210303.png]]
 ## Receiving a Signal
+![[Pasted image 20220922212857.png]]
