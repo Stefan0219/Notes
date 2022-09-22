@@ -4,7 +4,7 @@
 ### Altering the Control Flow
 * Jump and branches
 * Call and return
-**change program state.**
+Change **program state.**
 **But insufficient for a useful system. Difficult to react to changes in system state.**
 ![[Pasted image 20220921090950.png]]
 So, system needs mechanisms for **ECF**
