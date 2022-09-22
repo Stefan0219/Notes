@@ -37,3 +37,13 @@ An exception is a **transfer of control to the OS kernel** in response to some *
 ![[Pasted image 20220921093009.png]]
 ![[Pasted image 20220921093059.png]]
 ![[Pasted image 20220921093133.png]]
+# Signal
+![[Pasted image 20220922204119.png]]
+Back ground process will not be terminated after running, **kernel** need to send signals to process which will be terminated.
+A signal is a small message which **notifies** a process that an **event** of some type have occurred in the system.** 
+![[Pasted image 20220922204436.png]]
+## Sending signal
+**Kernel** sends a signal to a destination process by **updating** some **state** in the **context** of the destination process.
+### Why sending signal 
+![[Pasted image 20220922210303.png]]
+## Receiving a Signal
