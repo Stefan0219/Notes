@@ -9,3 +9,17 @@
 ![[Pasted image 20220923192205.png]]
 # VM
 ## Indirection
+![[Pasted image 20220923192442.png]]
+![[Pasted image 20220923192510.png]]
+![[Pasted image 20220923192645.png]]
+![[Pasted image 20220923192736.png]]
+![[Pasted image 20220923192759.png]]
+## How does VM work ?
+![[Pasted image 20220923192845.png]]
+**Translation**
+![[Pasted image 20220923193310.png]]
+## Page Table
+![[Pasted image 20220923193825.png]]
+![[Pasted image 20220923193842.png]]
+
+
