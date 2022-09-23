@@ -46,7 +46,7 @@ An exception is an abrupt change in the ocntrol flow in response to some change 
 # Signal
 ![[Pasted image 20220922204119.png]]
 Back ground process will not be terminated after running, **kernel** need to send signals to process which will be terminated.
-A signal is a small message which **notifies** a process that an **event** of some type have occurred in the system.** 
+A signal is a small message which **notifies** a process that an **event** of some type have occurred in the system.
 ![[Pasted image 20220922204436.png]]
 ## Sending signal
 **Kernel** sends a signal to a destination process by **updating** some **state** in the **context** of the destination process.
@@ -61,7 +61,7 @@ A signal is a small message which **notifies** a process that an **event** of so
 ![[Pasted image 20220922222837.png]]
 ![[Pasted image 20220922222857.png]]
 ![[Pasted image 20220922222957.png]]
-
+![[Pasted image 20220923091927.png]]
 ## Pending(挂起) and Blocked Signals 
 Pending: sent but not yet received.
 ![[Pasted image 20220922221746.png]]
