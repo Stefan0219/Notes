@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "15-213/Exceptional Control Flow/ECF.md",
+            "file": "cs61c/OS&VM/OS.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15-213/Exceptional Control Flow/ECF.md",
+                "file": "cs61c/OS&VM/OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15-213/Exceptional Control Flow/ECF.md",
+                "file": "cs61c/OS&VM/OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15-213/Exceptional Control Flow/ECF.md"
+                "file": "cs61c/OS&VM/OS.md"
               }
             }
           },
@@ -134,17 +134,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 277
   },
   "active": "ce504a1a49a9e625",
   "lastOpenFiles": [
+    "15-213/Exceptional Control Flow/ECF.md",
     "cs61c/Labs/GDB manual.md",
     "cs61c/Projs/proj2.md",
     "cs61c/Labs/LAB03/Notes about writing RV.md",
     "cs61c/Labs/LAB02/lab02.md",
     "cs61c/RISCV Processor Design/Cache.md",
-    "15-213/Exceptional Control Flow/ECF.md",
     "6.s081/LEC01/lec01.md",
     "cs61c/RV isa/Instruction Format.md",
     "cs61c/RV isa/RV.md",
