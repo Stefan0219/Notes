@@ -1,9 +1,9 @@
 {
   "theme": "obsidian",
-  "translucency": true,
+  "translucency": false,
   "textFontFamily": "San Francisco Display",
   "interfaceFontFamily": "San Francisco Display",
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Things",
   "monospaceFontFamily": "Hack Nerd Font Mono",
   "baseFontSize": 25
 }
