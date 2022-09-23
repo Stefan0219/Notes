@@ -28,6 +28,8 @@
 	* Memory and cache inconsistent.
 	* needs to be updated when block is replaced.
 * Operating system flushes cache before I/O.
+### (No) Write allocate
+![[Pasted image 20220923173105.png]]
 ## Block Size Tradeoff
 ![[Pasted image 20220916084924.png]]
 ![[Pasted image 20220915155031.png]]
