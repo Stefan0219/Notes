@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "efficent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +136,7 @@
     "direction": "horizontal",
     "width": 277
   },
-  "active": "ce504a1a49a9e625",
+  "active": "6a6c573de44e8b21",
   "lastOpenFiles": [
     "cs61c/OS&VM/OS.md",
     "cs61c/RISCV Processor Design/Cache.md",

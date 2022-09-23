@@ -21,5 +21,22 @@
 ## Page Table
 ![[Pasted image 20220923193825.png]]
 ![[Pasted image 20220923193842.png]]
+![[Pasted image 20220923194112.png]]
+![[Pasted image 20220923194242.png]]
+![[Pasted image 20220923194305.png]]
+![[Pasted image 20220923194333.png]]
+![[Pasted image 20220923194403.png]]
+## Page Faults
+How do I know if the page is in disk?
+* The PTE points to disk.
+![[Pasted image 20220923194529.png]]
+## Page Replacement Policies
+* FIFO
+	*  Easy to implement.
+* LRU
+	* Most efficient but expensive to implement.
+* RANDOM
+![[Pasted image 20220923194805.png]]
 
 
+## Memory Protection
