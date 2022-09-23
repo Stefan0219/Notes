@@ -10,9 +10,15 @@ Change **program state.**
 So, system needs mechanisms for **ECF**
 ## ECF
 ![[Pasted image 20220921091132.png]]
+![[Pasted image 20220922231457.png]]
 # Exceptions
 An exception is a **transfer of control to the OS kernel** in response to some **event** (i.e., change in processor state)
+An exception is an abrupt change in the ocntrol flow in response to some change in the **processor's state**.
+**Can be deivided into four classes: interrupts,traps,faults,aborts.** 
+
+![[Pasted image 20220922232153.png]]
 ![[Pasted image 20220921091257.png]]
+![[Pasted image 20220922232514.png]]
 ![[Pasted image 20220921091341.png]]
 ## Asynchronous Exceptions (Interrupts)
 ![[Pasted image 20220921091440.png]]
