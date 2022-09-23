@@ -31,6 +31,7 @@ An exception is an abrupt change in the ocntrol flow in response to some change 
 ![[Pasted image 20220921092000.png]]
 ![[Pasted image 20220921092035.png]]
 # Processes
+**errno**:a global int which declares what type of error has happened.
 ![[Pasted image 20220921092241.png]]
 ![[Pasted image 20220921092358.png]]
 # Process Control
