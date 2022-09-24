@@ -58,3 +58,13 @@ To make this faster, we can implement a **Page Table Cache**
 ![[Pasted image 20220924150001.png]]
 ![[Pasted image 20220924150037.png]]
 ![[Pasted image 20220924150104.png]]
+### TLB Flush
+![[Pasted image 20220924150543.png]]
+![[Pasted image 20220924150645.png]]
+![[Pasted image 20220924150812.png]]
+
+## Multi-level Page Tables
+![[Pasted image 20220924150913.png]]
+![[Pasted image 20220924150947.png]]
+![[Pasted image 20220924151057.png]]
+## Caches and Virtual Memory
