@@ -40,3 +40,21 @@ How do I know if the page is in disk?
 
 
 ## Memory Protection
+## Additional Page Table Metadata
+![[Pasted image 20220924143608.png]]
+Just like cache.
+### Page Protection Bits
+* Can specify how a process can use each page
+	* Read
+	* Write
+	* execute
+**If don't have permission to do what you are trying, you'll get segfault or memory protection fault.**
+![[Pasted image 20220924145756.png]]
+![[Pasted image 20220924143848.png]]
+![[Pasted image 20220924144040.png]]
+**With virtual memory, it takes one more time to access to memory because you need to look up in page table first.**
+To make this faster, we can implement a **Page Table Cache**
+## Translation Lookaside Buffer(TLB)
+![[Pasted image 20220924150001.png]]
+![[Pasted image 20220924150037.png]]
+![[Pasted image 20220924150104.png]]
