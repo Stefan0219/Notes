@@ -19,6 +19,7 @@
 **Translation**
 ![[Pasted image 20220923193310.png]]
 ## Page Table
+![[Pasted image 20220924155101.png]]
 ![[Pasted image 20220923193825.png]]
 ![[Pasted image 20220923193842.png]]
 ![[Pasted image 20220923194112.png]]
