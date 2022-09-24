@@ -11,6 +11,7 @@ char **d;
 ```
 * The actual value used by the compiler is the size what the pointer are pointing to.
 ## Conclusion on Pointers
+![[Pasted image 20220924172540.png]]
 ![[Pasted image 20220825124403.png]]
 ## Struct
 It's an instruction to C on how to arrange a bunch of bytes in a bucket.
