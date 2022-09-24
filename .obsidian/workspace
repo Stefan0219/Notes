@@ -138,13 +138,13 @@
   },
   "active": "ce504a1a49a9e625",
   "lastOpenFiles": [
+    "cs61c/RISCV Processor Design/Cache.md",
+    "cs61c/OS&VM/VM.md",
     "15-213/Exceptional Control Flow/ECF.md",
     "cs61c/RISCV Processor Design/RV-CPU-DESIGN.md",
     "cs61c/RISCV Processor Design/RISC-V Control & Operating Speed.md",
-    "cs61c/RISCV Processor Design/Cache.md",
     "cs61c/RV isa/RV.md",
     "cs61c/RV isa/Instruction Format.md",
-    "cs61c/OS&VM/VM.md",
     "6.s081/labs/lab01 utils.md",
     "cs61c/OS&VM/OS.md",
     "cs61c/Labs/GDB manual.md"

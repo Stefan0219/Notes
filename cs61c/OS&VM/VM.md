@@ -68,3 +68,17 @@ To make this faster, we can implement a **Page Table Cache**
 ![[Pasted image 20220924150947.png]]
 ![[Pasted image 20220924151057.png]]
 ## Caches and Virtual Memory
+### Physically Indexed, Physically Tagged Cache
+![[Pasted image 20220924151346.png]]
+![[Pasted image 20220924151622.png]]
+**Synonyms** : Different virtual address can map to same physical address.
+**Homonyms** : Same virtual address can map to different physical address.
+### Virtually Indexed, Virtually Tagged Cache
+![[Pasted image 20220924151816.png]]
+![[Pasted image 20220924151844.png]]
+### Virtually Indexed, Physically Tagged Caches
+![[Pasted image 20220924152339.png]]
+![[Pasted image 20220924152622.png]]
+Start form the index to find the location
+![[Pasted image 20220914160021.png]]
+![[Pasted image 20220924152823.png]]
