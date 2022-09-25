@@ -78,8 +78,14 @@ To make this faster, we can implement a **Page Table Cache**
 ![[Pasted image 20220924151816.png]]
 ![[Pasted image 20220924151844.png]]
 ### Virtually Indexed, Physically Tagged Caches
+![[Pasted image 20220925214959.png]]
 ![[Pasted image 20220924152339.png]]
 ![[Pasted image 20220924152622.png]]
 Start form the index to find the location
 ![[Pasted image 20220914160021.png]]
 ![[Pasted image 20220924152823.png]]
+![[Pasted image 20220925215031.png]]
+## PIPT vs VIVT
+![[Pasted image 20220925214928.png]]
+## Thrashing(抖动)
+![[Pasted image 20220925215145.png]]
