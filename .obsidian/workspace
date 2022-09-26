@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cs151/verilog/Syntax.md",
+            "file": "cs151/board/pynq-z1.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs151/verilog/Syntax.md",
+                "file": "cs151/board/pynq-z1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs151/verilog/Syntax.md",
+                "file": "cs151/board/pynq-z1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs151/verilog/Syntax.md"
+                "file": "cs151/board/pynq-z1.md"
               }
             }
           },
@@ -137,8 +137,9 @@
     "width": 200.5,
     "collapsed": true
   },
-  "active": "e22a8dabc0acede8",
+  "active": "ce504a1a49a9e625",
   "lastOpenFiles": [
+    "cs151/verilog/Syntax.md",
     "cs61c/OS&VM&IO/IO.md",
     "cs61c/OS&VM&IO/VM.md",
     "cs61c/OS&VM&IO/VM.pdf",
@@ -147,7 +148,6 @@
     "Makefile/Makefile.md",
     "cs61c/RV isa/RV.md",
     "cs61c/RV isa/Instruction Format.md",
-    "cs61c/RISCV Processor Design/RV-CPU-DESIGN.md",
-    "cs61c/RISCV Processor Design/RISC-V Control & Operating Speed.md"
+    "cs61c/RISCV Processor Design/RV-CPU-DESIGN.md"
   ]
 }
