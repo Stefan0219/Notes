@@ -137,6 +137,8 @@
   },
   "active": "ce504a1a49a9e625",
   "lastOpenFiles": [
+    "cs61c/RV isa/Instruction Format.pdf",
+    "cs61c/RV isa/RV.pdf",
     "cs151/board/pynq-z1.md",
     "cs151/verilog/Syntax.md",
     "cs61c/OS&VM&IO/IO.md",
@@ -144,8 +146,6 @@
     "cs61c/OS&VM&IO/VM.pdf",
     "15-213/Exceptional Control Flow/ECF.md",
     "6.s081/xv6/File System.md",
-    "Makefile/Makefile.md",
-    "cs61c/RV isa/RV.md",
-    "cs61c/RV isa/Instruction Format.md"
+    "Makefile/Makefile.md"
   ]
 }
