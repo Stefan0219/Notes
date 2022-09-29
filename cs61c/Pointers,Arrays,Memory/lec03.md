@@ -72,3 +72,7 @@ htohs()
 ![[Pasted image 20220825132756.png]]
 ## Managing the Heap
 ![[Pasted image 20220825133630.png]]
+## Pointer to a function
+![[Pasted image 20220929173744.png]]
+![[Pasted image 20220929174327.png]]
+![[Pasted image 20220929175156.png]]
