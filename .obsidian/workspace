@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cs61c/Pointers,Arrays,Memory/lec03.md",
+            "file": "Source Code.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251
+    "width": 100,
+    "collapsed": true
   },
   "right": {
     "id": "5bd98033d7e22183",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs61c/Pointers,Arrays,Memory/lec03.md",
+                "file": "Source Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs61c/Pointers,Arrays,Memory/lec03.md",
+                "file": "Source Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs61c/Pointers,Arrays,Memory/lec03.md"
+                "file": "Source Code.md"
               }
             }
           },
@@ -139,6 +140,7 @@
   },
   "active": "4523d2190f68fc90",
   "lastOpenFiles": [
+    "cs61c/Pointers,Arrays,Memory/lec03.md",
     "machine learning/lec03.md",
     "cs61c/RV isa/RV.pdf",
     "cs61c/RV isa/Instruction Format.pdf",
@@ -147,7 +149,6 @@
     "cs61c/OS&VM&IO/IO.md",
     "cs61c/OS&VM&IO/VM.md",
     "cs61c/OS&VM&IO/VM.pdf",
-    "15-213/Exceptional Control Flow/ECF.md",
-    "6.s081/xv6/File System.md"
+    "15-213/Exceptional Control Flow/ECF.md"
   ]
 }
