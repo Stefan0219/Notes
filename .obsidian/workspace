@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cs61c/Intro to Digital Systems/SDS.md",
+            "file": "cs151/CL/LEC05.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs61c/Intro to Digital Systems/SDS.md",
+                "file": "cs151/CL/LEC05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs61c/Intro to Digital Systems/SDS.md",
+                "file": "cs151/CL/LEC05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs61c/Intro to Digital Systems/SDS.md"
+                "file": "cs151/CL/LEC05.md"
               }
             }
           },
@@ -139,15 +139,15 @@
   },
   "active": "4523d2190f68fc90",
   "lastOpenFiles": [
-    "cs61c/Intro to Digital Systems/Lec10 (combinational).md",
+    "Source Code.md",
+    "cs151/CL/LEC05.md",
+    "cs151/verilog/Syntax.md",
+    "cs61c/Pointers,Arrays,Memory/image/Pasted image 20220929174327.png",
+    "cs61c/Pointers,Arrays,Memory/image/Pasted image 20220929175156.png",
     "cs61c/Intro to Digital Systems/SDS.md",
+    "cs61c/Intro to Digital Systems/Lec10 (combinational).md",
     "cs61c/Intro to Digital Systems/SDS.pdf",
     "cs61c/Intro to Digital Systems/Lec10 (combinational).pdf",
-    "Source Code.md",
-    "cs61c/Pointers,Arrays,Memory/lec03.md",
-    "machine learning/lec03.md",
-    "cs61c/RV isa/RV.pdf",
-    "cs61c/RV isa/Instruction Format.pdf",
-    "cs151/board/pynq-z1.md"
+    "cs61c/Pointers,Arrays,Memory/lec03.md"
   ]
 }
