@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Source Code.md",
+            "file": "cs61c/Intro to Digital Systems/SDS.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 308
   },
   "right": {
     "id": "5bd98033d7e22183",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Source Code.md",
+                "file": "cs61c/Intro to Digital Systems/SDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Source Code.md",
+                "file": "cs61c/Intro to Digital Systems/SDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Source Code.md"
+                "file": "cs61c/Intro to Digital Systems/SDS.md"
               }
             }
           },
@@ -140,15 +139,15 @@
   },
   "active": "4523d2190f68fc90",
   "lastOpenFiles": [
+    "cs61c/Intro to Digital Systems/Lec10 (combinational).md",
+    "cs61c/Intro to Digital Systems/SDS.md",
+    "cs61c/Intro to Digital Systems/SDS.pdf",
+    "cs61c/Intro to Digital Systems/Lec10 (combinational).pdf",
+    "Source Code.md",
     "cs61c/Pointers,Arrays,Memory/lec03.md",
     "machine learning/lec03.md",
     "cs61c/RV isa/RV.pdf",
     "cs61c/RV isa/Instruction Format.pdf",
-    "cs151/board/pynq-z1.md",
-    "cs151/verilog/Syntax.md",
-    "cs61c/OS&VM&IO/IO.md",
-    "cs61c/OS&VM&IO/VM.md",
-    "cs61c/OS&VM&IO/VM.pdf",
-    "15-213/Exceptional Control Flow/ECF.md"
+    "cs151/board/pynq-z1.md"
   ]
 }
