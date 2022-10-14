@@ -16,7 +16,7 @@
   how can we keep it from wrecking the kernel?
     and from wrecking other processes?
 
-* we want isolated address spaces
+* we want **isolated** address spaces
   each process has its own memory
   it can read and write its own memory
   it cannot read or write anything else
