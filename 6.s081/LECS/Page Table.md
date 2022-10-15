@@ -56,7 +56,7 @@
   construct physical address using PPN from PTE + offset of VA
   
 * what is in PTE?
-  each PTE is 64 bits, but only 54 are used
+  **each PTE is 64 bits, but only 54 are used**
   top 44 bits of PTE are top bits of physical address
     "physical page number"
   low 10 bits of PTE flags
@@ -64,7 +64,7 @@
   note: size virtual addresses != size physical addresses
 
 * where is the page table stored?
-  in RAM -- MMU loads (and stores) PTEs
+  in ***RAM*** -- MMU loads (and stores) PTEs
   o/s can read/write PTEs
     read/write memory location corresponding to PTEs   
 
@@ -72,7 +72,7 @@
   how big is it?
   2^27 is roughly 134 million
   64 bits per entry
-  134*8 MB for a full page table
+  134$*$ 8 MB for a full page table
     wasting roughly 1GB per page table
     one page table per address space
     one address space per application
@@ -85,12 +85,12 @@
   page directory page (PD)
     PD has 512 PTEs
     PTEs point to another PD or is a leaf
-    so 512*512*512 PTEs in total
+    so 512$*$ 512$*$ 512 PTEs in total
   PD entries can be invalid
     those PTE pages need not exist
     so a page table for a small address space can be small
 
-* how does the mmu know where the page table is located in RAM?
+* how does the MMU know where the page table is located in RAM?
   satp holds phys address of top PD
   pages can be anywhere in RAM -- need not be contiguous
   rewrite satp when switching to another address space/application

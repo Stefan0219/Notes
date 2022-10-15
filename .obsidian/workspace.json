@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "2a993eb96d1c2e5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "30ff89265f705e8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4523d2190f68fc90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6.s081/LECS/Page Table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dab9e0ac90640df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6.s081/LECS/Page Faults.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06eb458f34ff37e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1c7543a454a8db3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a6c573de44e8b21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "adc8f8747ed05bef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "efficent",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "afa50afb155a9e3b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5bd98033d7e22183",
+    "type": "split",
+    "children": [
+      {
+        "id": "429e186fdf7d6825",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df13022bcd4eed19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6.s081/LECS/Page Table.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b7611de1b4ef84f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6.s081/LECS/Page Table.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "935a1df4d344a620",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa84206db102c031",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6.s081/LECS/Page Table.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "4523d2190f68fc90",
+  "lastOpenFiles": [
+    "opencv/lab/数字图像处理第二次实验.md",
+    "opencv/lab/数字图像处理第一次实验.md",
+    "6.s081/LECS/Page Table.md",
+    "6.s081/LECS/Page Faults.md",
+    "6.s081/LECS/OS Design.md",
+    "6.s081/LECS/syscall.md",
+    "6.s081/LECS/lec01.md",
+    "6.s081/LECS/GDB&RV.md",
+    "6.s081/未命名.md",
+    "opencv/image/Pasted image 20221010211729.png"
+  ]
+}

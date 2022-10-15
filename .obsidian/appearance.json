@@ -1,10 +1,10 @@
 {
-  "theme": "moonstone",
-  "translucency": false,
+  "theme": "obsidian",
+  "translucency": true,
   "textFontFamily": "San Francisco Display",
   "interfaceFontFamily": "San Francisco Display",
-  "cssTheme": "Things",
+  "cssTheme": "Obsidianite",
   "monospaceFontFamily": "Hack Nerd Font Mono",
   "baseFontSize": 25,
-  "accentColor": ""
+  "accentColor": "#34c1e5"
 }
