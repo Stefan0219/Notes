@@ -5,5 +5,6 @@
   "interfaceFontFamily": "San Francisco Display",
   "cssTheme": "Things",
   "monospaceFontFamily": "Hack Nerd Font Mono",
-  "baseFontSize": 25
+  "baseFontSize": 25,
+  "accentColor": ""
 }
