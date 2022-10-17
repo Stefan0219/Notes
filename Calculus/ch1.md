@@ -46,3 +46,14 @@ $ln{(e^x)} = x$
 ![[Pasted image 20221017164921.png]]
 ![[Pasted image 20221017164953.png]]
 ![[Pasted image 20221017165009.png]]
+![[Pasted image 20221017165220.png]]
+![[Pasted image 20221017165438.png]]
+![[Pasted image 20221017165543.png]]
+![[Pasted image 20221017165824.png]]
+### 反三角函数
+![[Pasted image 20221017165927.png]]
+![[Pasted image 20221017170220.png]]
+# 参数方程
+![[Pasted image 20221017170447.png]]
+![[Pasted image 20221017170529.png]]
+
