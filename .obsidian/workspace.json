@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/ch1.md",
+                "file": "opencv/lab/数字图像处理第二次实验.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5bd98033d7e22183",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/ch1.md",
+                "file": "opencv/lab/数字图像处理第二次实验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/ch1.md",
+                "file": "opencv/lab/数字图像处理第二次实验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/ch1.md"
+                "file": "opencv/lab/数字图像处理第二次实验.md"
               }
             }
           }
@@ -179,11 +180,11 @@
   },
   "active": "d4da905ed06a2a48",
   "lastOpenFiles": [
-    "吃.md",
     "Calculus/ch1.md",
+    "opencv/lab/数字图像处理第二次实验.md",
+    "吃.md",
     "6.s081/LECS/syscall.md",
     "6.s081/LECS/Page Table.md",
-    "opencv/lab/数字图像处理第二次实验.md",
     "opencv/lab/数字图像处理第一次实验.md",
     "6.s081/LECS/Page Faults.md",
     "6.s081/LECS/OS Design.md",
