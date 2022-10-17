@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "30ff89265f705e8d",
+        "id": "d5fab9f372b4e48a",
         "type": "tabs",
         "children": [
           {
-            "id": "4523d2190f68fc90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6.s081/LECS/syscall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85935971695a5353",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus/ch1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4da905ed06a2a48",
+            "id": "cf919472466514e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1dab9e0ac90640df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6.s081/LECS/Page Faults.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5bd98033d7e22183",
@@ -178,17 +140,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d4da905ed06a2a48",
+  "active": "cf919472466514e3",
   "lastOpenFiles": [
-    "Calculus/ch1.md",
-    "opencv/lab/数字图像处理第二次实验.md",
-    "吃.md",
-    "6.s081/LECS/syscall.md",
-    "6.s081/LECS/Page Table.md",
     "opencv/lab/数字图像处理第一次实验.md",
+    "opencv/lab/数字图像处理第二次实验.md",
+    "opencv/image/Pasted image 20221017194823.png",
+    "opencv/image/Pasted image 20221017195952.png",
+    "opencv/image/Pasted image 20221017201307.png",
+    "opencv/image/Pasted image 20221012141632.png",
+    "6.s081/LECS/syscall.md",
     "6.s081/LECS/Page Faults.md",
-    "6.s081/LECS/OS Design.md",
-    "6.s081/LECS/lec01.md",
-    "6.s081/LECS/GDB&RV.md"
+    "Calculus/ch1.md",
+    "吃.md"
   ]
 }
