@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e22ae9ae9c703aca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6.s081/LECS/GDB&RV&STACK FRAME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs144/Internet & IP.md",
+                "file": "6.s081/LECS/GDB&RV&STACK FRAME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs144/Internet & IP.md",
+                "file": "6.s081/LECS/GDB&RV&STACK FRAME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs144/Internet & IP.md"
+                "file": "6.s081/LECS/GDB&RV&STACK FRAME.md"
               }
             }
           }
@@ -153,17 +165,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "814768583caf8449",
+  "active": "e22ae9ae9c703aca",
   "lastOpenFiles": [
+    "6.s081/LECS/lec01.md",
+    "6.s081/LECS/Calling convention,Stack.md",
+    "cs144/Internet & IP.md",
     "opencv/lab/数字图像处理第二次实验.md",
     "opencv/lab/数字图像处理第一次实验.md",
     "opencv/image/Pasted image 20221017194823.png",
     "opencv/image/Pasted image 20221017195952.png",
     "opencv/image/Pasted image 20221017201307.png",
     "opencv/image/Pasted image 20221012141632.png",
-    "6.s081/LECS/syscall.md",
-    "6.s081/LECS/Page Faults.md",
-    "Calculus/ch1.md",
-    "吃.md"
+    "6.s081/LECS/syscall.md"
   ]
 }
