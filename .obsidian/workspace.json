@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c13a6245e8362477",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6.s081/LECS/Q&A LABS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.s081/LECS/GDB&RV&STACK FRAME.md",
+                "file": "6.s081/LECS/Q&A LABS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6.s081/LECS/GDB&RV&STACK FRAME.md",
+                "file": "6.s081/LECS/Q&A LABS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.s081/LECS/GDB&RV&STACK FRAME.md"
+                "file": "6.s081/LECS/Q&A LABS.md"
               }
             }
           }
@@ -159,14 +171,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e22ae9ae9c703aca",
+  "active": "c13a6245e8362477",
   "lastOpenFiles": [
+    "6.s081/LECS/GDB&RV&STACK FRAME.md",
     "6.s081/LECS/lec01.md",
     "6.s081/LECS/Calling convention,Stack.md",
     "cs144/Internet & IP.md",
@@ -175,7 +187,6 @@
     "opencv/image/Pasted image 20221017194823.png",
     "opencv/image/Pasted image 20221017195952.png",
     "opencv/image/Pasted image 20221017201307.png",
-    "opencv/image/Pasted image 20221012141632.png",
-    "6.s081/LECS/syscall.md"
+    "opencv/image/Pasted image 20221012141632.png"
   ]
 }
