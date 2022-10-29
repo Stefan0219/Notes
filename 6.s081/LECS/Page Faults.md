@@ -34,7 +34,7 @@
 	
 * Information we might need at page fault to do something interesting:
   1) The virtual address that caused the fault
-    See stval register; page faults set it to the fault address
+    See **stval** register; page faults set it to the fault address
   2) The type of violation that caused the fault
     See scause register value (instruction, load, and Store page fault)
   3) The instruction and mode where the fault occurred
