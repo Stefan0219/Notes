@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.s081/LECS/Page Faults.md",
+                "file": "15-213/Exceptional Control Flow/ECF.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.s081/LECS/Page Faults.md",
+                "file": "15-213/Exceptional Control Flow/ECF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6.s081/LECS/Page Faults.md",
+                "file": "15-213/Exceptional Control Flow/ECF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.s081/LECS/Page Faults.md"
+                "file": "15-213/Exceptional Control Flow/ECF.md"
               }
             }
           }
@@ -161,20 +161,17 @@
     "direction": "horizontal",
     "width": 265.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "e22ae9ae9c703aca",
   "lastOpenFiles": [
-    "6.s081/LECS/GDB&RV&STACK FRAME.md",
     "6.s081/LECS/syscall.md",
-    "15-213/Exceptional Control Flow/ECF.md",
     "6.s081/LECS/Q&A LABS.md",
+    "6.s081/LECS/Page Faults.md",
+    "6.s081/LECS/GDB&RV&STACK FRAME.md",
+    "15-213/Exceptional Control Flow/ECF.md",
     "6.s081/LECS/lec01.md",
     "6.s081/LECS/Calling convention,Stack.md",
     "cs144/Internet & IP.md",
     "opencv/lab/数字图像处理第二次实验.md",
-    "opencv/lab/数字图像处理第一次实验.md",
-    "opencv/image/Pasted image 20221017194823.png"
+    "opencv/lab/数字图像处理第一次实验.md"
   ]
 }
