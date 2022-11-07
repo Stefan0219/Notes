@@ -11,8 +11,12 @@
             "id": "cf919472466514e3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cs61c/Pointers,Arrays,Memory/lec03.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cs61c/Pointers,Arrays,Memory/lec03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "cs61c/Pointers,Arrays,Memory/lec03.md"
+              }
             }
           },
           {
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cs61c/Pointers,Arrays,Memory/lec03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,8 +138,8 @@
   },
   "active": "cf919472466514e3",
   "lastOpenFiles": [
-    "2022-11-06.md",
     "opencv/lab/数字图像处理第二次实验.md",
+    "2022-11-06.md",
     "6.s081/labs/COW.md",
     "cs144/Internet & IP.md",
     "15-213/Exceptional Control Flow/ECF.md",
