@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5bd98033d7e22183",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.s081/LECS/Thread I.md",
+                "file": "cs61c/Pointers,Arrays,Memory/lec03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.s081/LECS/Thread I.md"
+                "file": "cs61c/Pointers,Arrays,Memory/lec03.md"
               }
             }
           },
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6.s081/LECS/Thread I.md",
+                "file": "cs61c/Pointers,Arrays,Memory/lec03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,8 +148,9 @@
     "direction": "horizontal",
     "width": 265.5
   },
-  "active": "12820505585b4c64",
+  "active": "cf919472466514e3",
   "lastOpenFiles": [
+    "6.s081/LECS/Thread I.md",
     "cs61c/Pointers,Arrays,Memory/lec03.md",
     "opencv/lab/数字图像处理第二次实验.md",
     "2022-11-06.md",
@@ -160,7 +159,6 @@
     "15-213/Exceptional Control Flow/ECF.md",
     "6.s081/LECS/syscall.md",
     "6.s081/LECS/Q&A LABS.md",
-    "6.s081/LECS/Page Faults.md",
-    "6.s081/LECS/GDB&RV&STACK FRAME.md"
+    "6.s081/LECS/Page Faults.md"
   ]
 }
