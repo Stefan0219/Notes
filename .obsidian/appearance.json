@@ -1,9 +1,9 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "translucency": true,
   "textFontFamily": "San Francisco Display",
   "interfaceFontFamily": "San Francisco Display",
-  "cssTheme": "Things",
+  "cssTheme": "Blue Topaz",
   "monospaceFontFamily": "Fira Code Retina",
   "baseFontSize": 25,
   "accentColor": "#34c1e5"
