@@ -19,6 +19,7 @@ control unit
 ![[Pasted image 20221118164806.png]]
 
 **CPU 怎么知道指令对应的操作？**
+![[Pasted image 20221118181043.png]]
 ![[Pasted image 20221118165515.png]]
 人为规定协议。
 CPU查找指令对应的字段。
