@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs61c/IEEE 754/lec06.md",
+                "file": "cs61c/RISCV Processor Design/temp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs61c/IEEE 754/lec06.md",
+                "file": "cs61c/RISCV Processor Design/temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs61c/IEEE 754/lec06.md"
+                "file": "cs61c/RISCV Processor Design/temp.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs61c/IEEE 754/lec06.md",
+                "file": "cs61c/RISCV Processor Design/temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +138,7 @@
   },
   "active": "edda15dfff1ef596",
   "lastOpenFiles": [
+    "cs61c/IEEE 754/lec06.md",
     "cs61c/RISCV Processor Design/temp.md",
     "cs61c/RISCV Processor Design/RV-CPU-DESIGN.md",
     "cs61c/RV isa/Instruction Format.md",
@@ -146,7 +147,6 @@
     "cs61c/Pointers,Arrays,Memory/lec03.md",
     "cs61c/Pointers,Arrays,Memory/lec03.pdf",
     "opencv/lab/数字图像处理第一次实验.md",
-    "opencv/lab/数字图像处理第二次实验.md",
-    "6.s081/LECS/Thread I.md"
+    "opencv/lab/数字图像处理第二次实验.md"
   ]
 }
