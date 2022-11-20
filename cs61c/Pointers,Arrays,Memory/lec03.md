@@ -14,6 +14,7 @@ char **d;
 ![[Pasted image 20220924172540.png]]
 ![[Pasted image 20220825124403.png]]
 ## Struct
+[结构体内存对齐](https://cloud.tencent.com/developer/article/1703257)
 It's an instruction to C on how to arrange a bunch of bytes in a bucket.
 Provides enough space and aligns the data with padding.
 ```C
