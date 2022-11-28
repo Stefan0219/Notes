@@ -23,12 +23,8 @@
             "id": "ae6288b4fd7168fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "代码.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "代码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +109,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "代码.md"
-              }
+              "state": {}
             }
           },
           {
@@ -125,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,17 +141,17 @@
     "direction": "horizontal",
     "width": 265.5
   },
-  "active": "ae6288b4fd7168fd",
+  "active": "6a6c573de44e8b21",
   "lastOpenFiles": [
+    "代码.md",
+    "Pasted image 20221118164500.png",
+    "15-213/Exceptional Control Flow/ECF.md",
+    "15-213/Exceptional Control Flow/ECF.pdf",
     "cs61c/Pointers,Arrays,Memory/lec03.md",
     "cs61c/Intro to Digital Systems/SDS.md",
     "cs61c/Intro to Digital Systems/Lec10 (combinational).md",
     "cs61c/IEEE 754/lec06.pdf",
     "cs61c/RISCV Processor Design/temp.md",
-    "cs61c/IEEE 754/lec06.md",
-    "cs61c/RISCV Processor Design/RV-CPU-DESIGN.md",
-    "cs61c/RV isa/Instruction Format.md",
-    "cs61c/RV isa/Instruction Format.pdf",
-    "cs61c/RISCV Processor Design/RV-CPU-DESIGN.pdf"
+    "cs61c/IEEE 754/lec06.md"
   ]
 }
