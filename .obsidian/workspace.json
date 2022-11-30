@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b4218d2a5dcb5b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数字图像处理第四次实验.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数字图像处理第三次实验.md",
+                "file": "数字图像处理第四次实验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数字图像处理第三次实验.md"
+                "file": "数字图像处理第四次实验.md"
               }
             }
           },
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数字图像处理第三次实验.md",
+                "file": "数字图像处理第四次实验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,17 +169,17 @@
     "direction": "horizontal",
     "width": 265.5
   },
-  "active": "80d13172411b6e22",
+  "active": "9b4218d2a5dcb5b9",
   "lastOpenFiles": [
-    "opencv/lab/数字图像处理第二次实验.md",
     "数字图像处理第三次实验.md",
+    "数字图像处理第四次实验.md",
+    "opencv/lab/数字图像处理第二次实验.md",
     "cs61c/Pointers,Arrays,Memory/lec03.md",
     "代码.md",
     "Pasted image 20221118164500.png",
     "15-213/Exceptional Control Flow/ECF.md",
     "15-213/Exceptional Control Flow/ECF.pdf",
     "cs61c/Intro to Digital Systems/SDS.md",
-    "cs61c/Intro to Digital Systems/Lec10 (combinational).md",
-    "cs61c/IEEE 754/lec06.pdf"
+    "cs61c/Intro to Digital Systems/Lec10 (combinational).md"
   ]
 }
