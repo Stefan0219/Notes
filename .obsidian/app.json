@@ -2,7 +2,7 @@
   "promptDelete": false,
   "vimMode": true,
   "pdfExportSettings": {
-    "pageSize": "A3",
+    "pageSize": "Tabloid",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
